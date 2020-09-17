@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/agoraDemo/static/css/main.13aae214.chunk.css",
+    "main.js": "/agoraDemo/static/js/main.c7e5c76d.chunk.js",
+    "main.js.map": "/agoraDemo/static/js/main.c7e5c76d.chunk.js.map",
+    "runtime~main.js": "/agoraDemo/static/js/runtime~main.91e1782f.js",
+    "runtime~main.js.map": "/agoraDemo/static/js/runtime~main.91e1782f.js.map",
+    "static/css/2.da82b403.chunk.css": "/agoraDemo/static/css/2.da82b403.chunk.css",
+    "static/js/2.4c81b543.chunk.js": "/agoraDemo/static/js/2.4c81b543.chunk.js",
+    "static/js/2.4c81b543.chunk.js.map": "/agoraDemo/static/js/2.4c81b543.chunk.js.map",
+    "index.html": "/agoraDemo/index.html",
+    "precache-manifest.3a3644240a7756acf5ba064933d8221a.js": "/agoraDemo/precache-manifest.3a3644240a7756acf5ba064933d8221a.js",
+    "service-worker.js": "/agoraDemo/service-worker.js",
+    "static/css/2.da82b403.chunk.css.map": "/agoraDemo/static/css/2.da82b403.chunk.css.map",
+    "static/css/main.13aae214.chunk.css.map": "/agoraDemo/static/css/main.13aae214.chunk.css.map",
+    "static/media/index.css": "/agoraDemo/static/media/ag-index-background.2ab67eec.png",
+    "static/media/ag-logo.png": "/agoraDemo/static/media/ag-logo.c9b3e104.png",
+    "static/media/icons.css": "/agoraDemo/static/media/icons.efe053d4.ttf"
+  }
+}
